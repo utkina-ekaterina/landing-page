@@ -1,4 +1,5 @@
 # landing-page
+Project: Landing Page
 
 ## Introduction
 This is **Landing Page project** that was done within the *Foundations* course on *https://www.theodinproject.com/*.
