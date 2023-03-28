@@ -1,6 +1,5 @@
  /* this selector dictates the style of the whole page */
  * {
-    background: white;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
@@ -30,23 +29,30 @@
     flex-direction: row;
     background: #1F2937;
     height: 25px;
+    font-size: 24px;
+    font-style: extra-bold;
    
     
   }
 
   .logo {
-    width: 270px;
+    width: 220px;
     background: #1F2937;
     float: left;
     height: 25px;
+    padding-left: 30px;
+    padding-top: 15px;
 
   }
 
   .links {
-    width: 350px;
+    width: 150px;
     background: #1F2937;
     float: right;
     height: 25px;
+    font-size: 18px;
+    color: #E5E7EB;
+    padding-top: 15px;
     
   }
 
@@ -54,6 +60,8 @@
     background: #1F2937;   
     margin: 100px;
   }
+
+
 
   .button {
     background: #3882F6;
