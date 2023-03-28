@@ -21,8 +21,9 @@
   .first {
     color: #F9FAF8;
     background: #1F2937;
-    width: 100%;
-    height: 25%
+    width: 92.8%;
+    height: 350px;
+    padding-left: 120px;
   }
 
   .header {
@@ -30,35 +31,46 @@
     background: #1F2937;
     height: 25px;
     font-size: 24px;
-    font-style: extra-bold;
+    
    
     
+  }
+  .title {
+    font-size: 48px;
+    font-style: bold;
+    margin-bottom: auto;
   }
 
   .logo {
     width: 220px;
     background: #1F2937;
     float: left;
-    height: 25px;
+    height: 20px;
     padding-left: 30px;
     padding-top: 15px;
 
   }
 
   .links {
-    width: 150px;
+    width: 130px;
     background: #1F2937;
     float: right;
-    height: 25px;
+    height: 20px;
     font-size: 18px;
     color: #E5E7EB;
     padding-top: 15px;
+    padding-right: 110px;
     
   }
 
   .main {
     background: #1F2937;   
-    margin: 100px;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    width: 375px;
+    margin-bottom: 10px;
+
   }
 
 
@@ -72,20 +84,22 @@
     text-align: center;
     padding-top: 10px;
     border-radius: 5px;
+    margin-left: 30px;
+    
   }
 
   .second {
-    height: 25%;
+    height: 350px;
     width: 100%;
   }
 
   .third {
     background-color: #E5E7EB;
-    height: 25%;
+    height: 350px;
     width: 100%;
   }
 
   .fourth {
-    height: 25%;
+    height: 350px;
     width: 100%;
   }
