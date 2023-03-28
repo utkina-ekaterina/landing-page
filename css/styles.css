@@ -1,0 +1,67 @@
+ /* this selector dictates the style of the whole page */
+ * {
+    background: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+  /* this selector selects all objects that have .flex-container class */
+  .flex-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* this selector selects all divs inside of .flex-container */
+  .flex-container div {
+    flex: 1;
+    margin: 30px;
+  }
+
+  .first {
+    color: #F9FAF8;
+    background: #1F2937;
+  }
+
+  .header {
+    flex-direction: row;
+    background: #1F2937;
+  }
+
+  .logo {
+    width: 350px;
+    background: #1F2937;
+  }
+
+  .links {
+    width: 350px;
+    background: #1F2937;
+  }
+
+  .main {
+    background: #1F2937;
+  }
+
+  .button {
+    background: #3882F6;
+    border-color: white;
+    color: white;
+    width: 120px;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 5px;
+  }
+
+ 
+
+  .second {
+    
+  }
+
+  .third {
+    background-color: #E5E7EB;
+  }
+
+  .fourth {
+    
+  }
