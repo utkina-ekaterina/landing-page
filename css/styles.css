@@ -93,7 +93,7 @@ footer {
 
 .second-text {
   align-self: center;
-  padding-left: 200px;
+  padding-left: 38%;
   height: 50px;
   padding-top: 29px;
   font-size: 28px;
@@ -130,8 +130,9 @@ footer {
 }
 
 .author {
-  padding-left: 500px;
+  padding-left: 70%;
   font-style: bold;
+  margin-top: 30px;
 }
 
 .fourth {
