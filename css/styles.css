@@ -85,11 +85,6 @@ h1 {
 }
 
 
-footer {
-  background: #1F2937;
-  font-size: 18px;
-  color: #E5E7EB;
-}
 
 .second-text {
   align-self: center;
@@ -136,12 +131,12 @@ footer {
 }
 
 .fourth {
-  height: 450px;
+  padding-top: 150px;
+  height: 320px;
 }
 
 .flex-container-fourth {
   display: flex;
-  margin-top: 200px;
   border: solid red 2px;
   background: #3882F6;
   margin-left: 20px;
@@ -160,3 +155,11 @@ footer {
   margin-right: 80px;
 }
 
+footer {
+  background: #1F2937;
+  font-size: 18px;
+  color: #E5E7EB;
+  padding-left: 35%;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
