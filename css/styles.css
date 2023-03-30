@@ -8,8 +8,8 @@
  * {
     margin: auto;
     font-family: Hero;
+   
 
- 
 }
 
 .flex-container {
@@ -24,8 +24,7 @@
 .first {
   color: #F9FAF8;
   background: #1F2937;
-  height: 350px;
-  
+  height: 450px;
 }
 
 h1 {
@@ -33,22 +32,24 @@ h1 {
   color: #F9FAF8;
   margin-left: 25px;
   width: auto;
+  margin-bottom: 10px;
 }
 
 .links {
   font-size: 18px;
   color: #E5E7EB;
-  width: 30px;
 }
 
 .logo {
   font-size: 24px;
   color: #F9FAF8;
   margin-left: 25px;
+  margin-right: 100px;
 }
 
 .head {
-  margin-bottom: 30px;
+  margin-bottom: 90px;
+  padding-top: 30px;
 }
 
 .text-main {
@@ -71,11 +72,56 @@ h1 {
   
 }
 
-
 .placeholder {
   background: lightgray;
   text-align: center;
   height: 110px;
   padding-top: 105px;
-
+  margin-right: 25px;
 }
+
+.second {
+  height: 450px;
+}
+
+.third {
+  color: #1F2937;
+  background: #E5E7EB;
+  height: 450px;
+  font-style: italic;
+  font-size: 36px;
+}
+
+.fourth {
+  height: 450px;
+}
+
+footer {
+  background: #1F2937;
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+.second-text {
+  align-self: center;
+  padding-left: 200px;
+  height: 50px;
+  padding-top: 29px;
+  font-size: 28px;
+  font-style: bold;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: solid;
+  border-radius: 5px;
+  border-color: #3882F6;
+}
+
+.square-text {
+  text-align: center;
+}
+
