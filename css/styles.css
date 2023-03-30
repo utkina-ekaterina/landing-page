@@ -138,3 +138,25 @@ footer {
 .fourth {
   height: 450px;
 }
+
+.flex-container-fourth {
+  display: flex;
+  margin-top: 200px;
+  border: solid red 2px;
+  background: #3882F6;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+/* this selector selects all divs inside of .flex-container */
+.flex-container-fourth div {
+  flex: 1;
+}
+
+.fourth-text {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 40px;
+  margin-right: 80px;
+}
+
