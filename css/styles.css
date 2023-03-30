@@ -84,17 +84,6 @@ h1 {
   height: 450px;
 }
 
-.third {
-  color: #1F2937;
-  background: #E5E7EB;
-  height: 450px;
-  font-style: italic;
-  font-size: 36px;
-}
-
-.fourth {
-  height: 450px;
-}
 
 footer {
   background: #1F2937;
@@ -127,3 +116,24 @@ footer {
   text-align: center;
 }
 
+.third {
+  height: 450px;
+  background: #E5E7EB;
+}
+
+.quote {
+  padding-top: 150px;
+  color: #1F2937;
+  width: 94%;
+  font-style: italic;
+  font-size: 36px;
+}
+
+.author {
+  padding-left: 500px;
+  font-style: bold;
+}
+
+.fourth {
+  height: 450px;
+}
