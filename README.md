@@ -15,3 +15,8 @@ I am still modifying this project.
 ## References
 *under construction*
  
+## To-do list
+-> fix button position in the first div: while the size of the page is changing, the button is sometimes "jumping out" of the first section
+-> finish fourth div
+-> add content (?)
+-> FIX PADDINGS
