@@ -43,7 +43,7 @@ h1 {
 .logo {
   font-size: 24px;
   color: #F9FAF8;
-  margin-left: 25px;
+  margin-left: 205px;
   margin-right: 100px;
 }
 
@@ -55,8 +55,12 @@ h1 {
 .text-main {
   font-size: 18px;
   color: #E5E7EB;
-  margin-left: 25px;
+  margin-left: 205px;
   width: auto;
+
+}
+h1 {
+  margin-left: 205px;
 }
 
 .button {
@@ -67,7 +71,7 @@ h1 {
   text-align: center;
   padding-top: 10px;
   border-radius: 5px;
-  margin-left: 25px;
+  margin-left: 205px;
   margin-top: 5px;
   
 }
@@ -77,18 +81,19 @@ h1 {
   text-align: center;
   height: 110px;
   padding-top: 105px;
-  margin-right: 25px;
+  margin-right: 179px;
+  margin-left: 90px;
 }
 
 .second {
   height: 450px;
+  margin-right: 350px;
+  margin-left: 350px;
 }
-
-
 
 .second-text {
   align-self: center;
-  padding-left: 38%;
+  padding-left: 28%;
   height: 50px;
   padding-top: 29px;
   font-size: 28px;
@@ -119,14 +124,17 @@ h1 {
 .quote {
   padding-top: 150px;
   color: #1F2937;
-  width: 94%;
   font-style: italic;
   font-size: 36px;
+  margin-right: 250px;
+  margin-left: 250px;
+  margin-bottom: 50px;
 }
 
 .author {
   padding-left: 70%;
   font-style: bold;
+  font-weight: 900;
   margin-top: 30px;
 }
 
@@ -163,3 +171,4 @@ footer {
   padding-top: 4%;
   padding-bottom: 4%;
 }
+
