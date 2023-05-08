@@ -142,6 +142,8 @@ h1 {
 .fourth {
   padding-top: 150px;
   height: 320px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .flex-container-fourth {
@@ -150,6 +152,8 @@ h1 {
   background: #3882F6;
   margin-left: 20px;
   margin-right: 20px;
+  border-radius: 5px;
+  height: 120px;
 }
 
 /* this selector selects all divs inside of .flex-container */
@@ -163,12 +167,11 @@ h1 {
   margin-left: 40px;
   margin-right: 80px;
 }
-
 footer {
   background: #1F2937;
   font-size: 18px;
   color: #E5E7EB;
-  padding-left: 35%;
+  padding-left: 41%;
   padding-top: 4%;
   padding-bottom: 4%;
 }
